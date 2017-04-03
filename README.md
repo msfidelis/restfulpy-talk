@@ -75,6 +75,16 @@ rest_api/
 1 directory, 5 files
 ```
 
+Agora podemos confirmar nosso Hello World com o Django 
+
+```
+    $ python manage.py runserver 
+```
+
+Acesse a url e veja: 
+
+>http://localhost:8000
+
 ## Nosso primeiro módulo
 
 O Django por padrão nos permite gerenciar nossa aplicação por módulos. O que criamos até agora foi o core da aplicação, vamos nosso primeiro chamado *posts*

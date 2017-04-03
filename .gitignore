@@ -1,2 +1,3 @@
 virtualenv
-*.pyc
+*.pycdjango_api/env
+flask_api/env
